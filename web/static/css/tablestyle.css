@@ -1,0 +1,39 @@
+table.hovertable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #999999;
+    position: absolute;
+    top: 100px;
+    border-collapse: collapse;
+    margin-top: 100px;
+
+   	
+}
+table.hovertable th {
+    background-color:#c3dde0;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #a9c6c9;
+}
+table.hovertable tr {
+    background-color:#d4e3e5;
+}
+table.hovertable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #a9c6c9;
+}
+
+#hotel,#flight,#reservation,#car,#customer{
+margin-left:30%;
+		margin-top:300px;
+		margin-top:300px;
+}
+form{
+	margin-top:300px;
+	margin-left:800px;
+}
